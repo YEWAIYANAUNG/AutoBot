@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AutoBot</string>
+    <string name="action_settings">Settings</string>
+    <string name="hype">hype</string>
+    <string name="logo">Logo</string>
+    <string name="restocks">Restocks</string>
+    <string name="news">News</string>
+    <string name="brands">brands</string>
+</resources>
